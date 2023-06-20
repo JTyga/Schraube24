@@ -1,0 +1,19 @@
+
+  {
+    "name": "hausaufgabe_schrauben",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "node ."
+    },
+    "keywords": [],
+    "author": "jf",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongoose": "^7.3.0"
+    }
+  }
+  
+
